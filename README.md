@@ -89,4 +89,3 @@ cymate-react18.2/
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for details.
 
-CyMate - The New Era Of Cybersecurity & Innovation
